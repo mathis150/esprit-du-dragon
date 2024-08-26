@@ -1,0 +1,2 @@
+# Règles générales
+

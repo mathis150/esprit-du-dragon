@@ -1,0 +1,2 @@
+# Considéré mercenaire
+
