@@ -1,2 +1,2 @@
-# 💿 Fonctionnement du monde
+# 💿 Fonctionnement du monde ❌
 

@@ -12,7 +12,7 @@ L'écuyé est une personne, jeune, voué à devenir "Apprentis-Chevalier". Dans 
 
 Leur puissance se base sur leurs forces, leur dextérité et leurs compétences.
 
-<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Arme</td><td>Armes létales au corps à corps</td></tr><tr><td align="right">Armures recommandées</td><td>Armures moyennes</td></tr><tr><td align="right">Type de classe</td><td>DPS</td></tr><tr><td align="right">Évolution possible</td><td>Mercenaire, Chevalier, Paladin, Tank</td></tr></tbody></table>
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Armes létales au corps à corps</td></tr><tr><td align="right">Armures recommandées</td><td>Armures moyennes</td></tr><tr><td align="right">Type de classe</td><td>DPS</td></tr><tr><td align="right">Évolution possible</td><td>Mercenaire, Chevalier, Paladin, Tank</td></tr></tbody></table>
 
 Votre niveau d'évolution dépendra de plusieurs facteur et du niveau de liberté voulus.
 

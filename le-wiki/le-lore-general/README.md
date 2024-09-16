@@ -2,7 +2,7 @@
 description: Créé le 06/06/2024, par Mathis
 ---
 
-# 📑 Le Lore général
+# 📑 Le Lore général ⏳
 
 "Esprit du Dragon" a un lore qui, dans son ensemble, est extrêmement complexe, regroupant énormément de facteurs, et d'informations qui font de ce monde, un monde crédible, et ceux, de toutes parts.
 

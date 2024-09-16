@@ -12,7 +12,7 @@ L'élu de la magie est une personne, jeune, voué à devenir un futur spécialis
 
 Leur puissance se base sur leur magie, leur intelligence et leurs sorts.
 
-<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Arme</td><td>Magie sans artéfacts, artéfacts de conjuration magique</td></tr><tr><td align="right">Armures recommandées</td><td>Robe de sagesses</td></tr><tr><td align="right">Type de classe</td><td>DPS ou Soutien</td></tr><tr><td align="right">Évolution possible</td><td>Druide, Mage, Sorcier</td></tr></tbody></table>
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Magie sans artéfacts, artéfacts de conjuration magique</td></tr><tr><td align="right">Armures recommandées</td><td>Robe de sagesses</td></tr><tr><td align="right">Type de classe</td><td>DPS ou Soutien</td></tr><tr><td align="right">Évolution possible</td><td>Druide, Mage, Sorcier</td></tr></tbody></table>
 
 L'évolution d'un élu de la magie se basera sur deux choses :&#x20;
 

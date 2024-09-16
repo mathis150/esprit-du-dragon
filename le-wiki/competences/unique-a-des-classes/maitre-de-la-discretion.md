@@ -1,3 +1,3 @@
-# Maître de la discrétion
+# ⌛ Maître de la discrétion
 
 Unique aux classes "Voleur"

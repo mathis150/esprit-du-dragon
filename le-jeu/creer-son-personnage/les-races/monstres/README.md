@@ -2,7 +2,7 @@
 description: Créé le 12/03/2024, par Mathis.
 ---
 
-# Monstres
+# 👹 Monstres
 
 Les êtres considérés comme "Monstres" parmi les êtres civilisés ont pour particularité d'avoir des particularités "monstrueuses" comparé aux humains.
 

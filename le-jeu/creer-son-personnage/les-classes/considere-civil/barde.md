@@ -12,7 +12,7 @@ Le barde est un musicien, utilisant en général, pour se défendre, un instrume
 
 La puissance de sa magie dépend des émotions de l'instant, pouvant apporter bonus... comme malus.
 
-<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Arme</td><td>Instruments de musiques</td></tr><tr><td align="right">Armures recommandées</td><td>Armures légères</td></tr><tr><td align="right">Type de classe</td><td>Soutiens</td></tr></tbody></table>
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Instruments de musiques</td></tr><tr><td align="right">Armures recommandées</td><td>Armures légères</td></tr><tr><td align="right">Type de classe</td><td>Soutiens</td></tr></tbody></table>
 
 Même s'il existe des bardes spécialisés dans les dégâts, ils sont extrêmement rares, leur efficacité étant souvent réduite comparé à de vrais combattants.
 

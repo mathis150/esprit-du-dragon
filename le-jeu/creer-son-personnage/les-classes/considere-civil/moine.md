@@ -10,9 +10,11 @@ description: Créé le 11/06/2024, par Mathis.
 
 Les moines sont des croyants, dont leurs foies est dirigé vers les demi-dieux. Ils sont les seuls à encore faire persister leur existence aux habitants du "Royaume des dieux", mais leur état métal est souvent mis à rude épreuve dû à l'exigence de ses derniers et des pouvoirs qui les consument peu à peu dus à leur instabilité...&#x20;
 
+Ils ne peuvent croire qu'en les Demi-Dieux.
+
 Leur puissance se base sur leurs magies, leur croyance et leur constitution mentale.
 
-<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Arme</td><td>Magie sans artéfacts, artéfacts de conjuration magique, arme létales au corps à corps magiques</td></tr><tr><td align="right">Armures recommandées</td><td>Tout type</td></tr><tr><td align="right">Type de classe</td><td>Défense, DPS ou Soutien</td></tr></tbody></table>
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Magie sans artéfacts, artéfacts de conjuration magique, arme létales au corps à corps magiques</td></tr><tr><td align="right">Armures recommandées</td><td>Tout type</td></tr><tr><td align="right">Type de classe</td><td>Défense, DPS ou Soutien</td></tr></tbody></table>
 
 Les moines sont une classe extrêmement versatile, cela la rend très puissante, mais aussi très compliqué à jouer. Cette classe n'est pas à prendre à la légère.
 

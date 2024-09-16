@@ -1,2 +1,2 @@
-# 💪 Compétences
+# 💪 Compétences ⏳
 

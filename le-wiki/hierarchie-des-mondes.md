@@ -1,2 +1,2 @@
-# 🏆 Hiérarchie des mondes
+# 🏆 Hiérarchie des mondes ❌
 

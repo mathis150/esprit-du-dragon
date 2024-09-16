@@ -1,2 +1,26 @@
+---
+description: Créé le 13/06/2024, par Mathis.
+---
+
 # Chasseur
+
+**Difficulté :** ★✩✩
+
+
+
+Le chasseur est un spécialiste en créature, magique ou non. Son travail, est la compréhension des créatures et de leurs faiblesses, mais il peut aussi en apprivoiser certaines pour en faire un familier, ou un compagnon.
+
+**Familier :** Créature spécialisée dans les dégâts, et placé sous sort pour pouvoir éviter de la laisser dans la nature (Souvent une créature puissante et difficile à contrôler)&#x20;
+
+**Compagnon :** Créature spécialisée dans le soutien, en permanence à côté de son maître, et qui écoute ce dernier en permanence sans faire de vague.
+
+**Créature sous contrats :** Un autre type de créature qui a signé un contrat avec le chasseur, lui permettant de les invoquer à sa guise ou d'utiliser leurs magies.
+
+Leur puissance se base sur leur intelligence, leur sagesse et leur dextérité.
+
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Arme à longue distance ou courte distance</td></tr><tr><td align="right">Armures recommandées</td><td>Tenue légère</td></tr><tr><td align="right">Type de classe</td><td>Soutiens</td></tr></tbody></table>
+
+<table><thead><tr><th width="247" align="right">Charactéristique</th><th>Ce qu'ajoute ou retire la race.</th></tr></thead><tbody><tr><td align="right">Points de vie</td><td>(+) 10 points</td></tr><tr><td align="right">Points de psychologie</td><td>(+) 0 points</td></tr><tr><td align="right">Énergie magique</td><td>(+) 10 points</td></tr><tr><td align="right">Énergie originelle</td><td>(+) 0 points</td></tr><tr><td align="right">Points de contrat</td><td>(+) 0 points</td></tr><tr><td align="right">Force</td><td>(+) 0 %</td></tr><tr><td align="right">Constitution Physique</td><td>(+) 0 %</td></tr><tr><td align="right">Charisme</td><td>(+) 5 %</td></tr><tr><td align="right">Dextérité</td><td>(+) 10 %</td></tr><tr><td align="right">Courage</td><td>(+) 5 %</td></tr><tr><td align="right">Sagesse</td><td>(+) 10 %</td></tr><tr><td align="right">Intelligence</td><td>(+) 10 %</td></tr><tr><td align="right">Constitution Mental</td><td>(+) 0 %</td></tr></tbody></table>
+
+<table><thead><tr><th width="160" align="right">Compétences</th><th width="153" align="right">LV. Compétence</th><th width="179" align="center">Niveau et jet de dés</th><th>Description</th></tr></thead><tbody><tr><td align="right">Spécialiste des créatures</td><td align="right">1</td><td align="center">LV.1 et aucun</td><td>Au niveau 1, permets de savoir tout des créatures de rang Inoffensif à Bagarreur.<br><br>[LVL.1, Offre un niveau basique de connaissance des créatures magiques.<br><br>Augmente de 25% vos dégâts sur une créature magique non humanoïde.]</td></tr><tr><td align="right"></td><td align="right">2</td><td align="center">LV.15<br>{1d100} > {Stat. D'Intelligence}</td><td><p>Au niveau 2, permets de savoir tout des créatures de rang Inoffensif à Danger Rouge.<br><br>[LVL.2, Offre un niveau basique de connaissance des créatures magiques.</p><p></p><p>Augmente de 25% vos dégâts sur une créature magique non humanoïde.]</p></td></tr><tr><td align="right"></td><td align="right">3</td><td align="center">LV.30<br>{1d100} > {Stat. D'Intelligence} /2</td><td><p>Au niveau 3, permets de savoir tout des créatures de rang Inoffensif à Dieu.<br><br>[LVL.3, Offre un niveau basique de connaissance des créatures magiques.</p><p></p><p>Augmente de 50% vos dégâts sur une créature magique non humanoïde.]</p></td></tr><tr><td align="right"></td><td align="right"></td><td align="center"></td><td></td></tr><tr><td align="right">Maître de créatures</td><td align="right">1</td><td align="center">LV.1 et aucun</td><td>Au niveau 1, permets d'apprivoiser de nouvelles créatures. Plus la créature est puissante, plus il sera difficile de la capturer.<br><br>(Voir le descriptif de la compétence dans la catégorie adéquate)<br><br>[LVL.1, permet d'apprivoiser des créatures et permet de stocker les familiers dans une "sous-dimension".]</td></tr><tr><td align="right"></td><td align="right"></td><td align="center">LV.10<br>{1d100} > {Stat. De sagesse}</td><td>Au niveau 2, permets d'apprivoiser de nouvelles créatures. Les créatures  puissantes deviennent légèrement plus faciles à attraper.<br><br>(Voir le descriptif de la compétence dans la catégorie adéquate)<br><br>Passer un contrat avec une créature magique devient moins lourd à supporter pour vous.<br><br>[LVL.2, permet d'apprivoiser des créatures et permet de stocker les familiers dans une "sous-dimension". Passer un contrat est moins lourd.]</td></tr><tr><td align="right"></td><td align="right"></td><td align="center">LV.35<br>{1d100} > {Stat. De sagesse} / 2</td><td>Au niveau 3, permets d'apprivoiser de nouvelles créatures. Les créatures  puissantes deviennent bien plus faciles à attraper.<br><br>(Voir le descriptif de la compétence dans la catégorie adéquate)<br><br>Passer un contrat avec une créature magique devient moins compliqué à supporter pour vous.<br><br>[LVL.3, permet d'apprivoiser des créatures et permet de stocker les familiers dans une "sous-dimension". Passer un contrat est moins compliqué.]</td></tr></tbody></table>
 

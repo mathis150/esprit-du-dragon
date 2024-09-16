@@ -1,2 +1,2 @@
-# 🌟 Divinités
+# 🌟 Divinités ⏳
 

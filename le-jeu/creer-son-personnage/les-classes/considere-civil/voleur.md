@@ -12,7 +12,7 @@ La classe de Voleur est l'une des classes les plus compliqués à jouer au sein 
 
 Leur puissance se base sur leur dextérité, leur constitution mentales et leur intelligence.
 
-<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Arme</td><td>Armes létales légères au corps à corps et/ou à distance.</td></tr><tr><td align="right">Armures recommandées</td><td>Tenue légère</td></tr><tr><td align="right">Type de classe</td><td>DPS</td></tr></tbody></table>
+<table><thead><tr><th width="269" align="right">Type d'information</th><th>Valeur</th></tr></thead><tbody><tr><td align="right">Armes recommandées</td><td>Armes létales légères au corps à corps et/ou à distance.</td></tr><tr><td align="right">Armures recommandées</td><td>Tenue légère</td></tr><tr><td align="right">Type de classe</td><td>DPS</td></tr></tbody></table>
 
 Les voleurs sont une classe vraiment peu versatile, et leur discrétion est maîtresse dans leurs actions, c'est grâce à cela qu'ils seront capables de causer de lourds dégâts et de soutenir leurs alliés, se retrouver en combat face à des mages ou des combattants spécialisés au corps à corps peut leur être fatale s'ils ne profitent pas de leur environnement ou si l'environnement n'est pas propice.
 

@@ -1,5 +1,6 @@
 ---
 description: Créé le 11/03/2024, par Mathis.
+icon: ballot-check
 ---
 
 # Les bases
@@ -121,6 +122,30 @@ Maintenant, imaginons que je fais mes jets de dés :&#x20;
 * Je lance 1d30 pour définir mes points de psychologie, j'obtiens "12", j'ai 10 points supplémentaires, cela m'emmène à 22 points.
 * Je lance à nouveau 1d50 qui définit mon énergie magique, j'obtiens "2", je dois donc relancer, et j'obtiens "43", j'ai 15 points d'énergie magique supplémentaire, j'ai donc 58 d'énergie magique.
 * ...
+
+{% hint style="info" %}
+**Définir votre type d'énergie orginelle :**&#x20;
+
+Pour ça, faite {1d6} :
+
+* 1 = Feu
+* 2 = Eau
+* 3 = Terre
+* 4 = Électricité
+* 5 = Vent
+* 6 = Vitalité
+{% endhint %}
+
+{% hint style="info" %}
+**Définir votre endurance :**&#x20;
+
+Pour ça, faite {1d4} :&#x20;
+
+* 1 = Très mauvaise
+* 2 = Mauvaise
+* 3 = Bonne
+* 4 = Très bonne
+{% endhint %}
 
 ### Définir votre histoire et votre lore
 

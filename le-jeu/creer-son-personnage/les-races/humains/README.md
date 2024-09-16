@@ -2,7 +2,7 @@
 description: Créé le 12/03/2024, par Mathis.
 ---
 
-# Humains
+# 👨‍👩‍👧‍👦 Humains
 
 Les êtres considérés comme "Humain" ont la particularité d'être tous de la même race avec toujours des différences que l'on considère comme mineur visuellement.
 

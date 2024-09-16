@@ -1,2 +1,2 @@
-# 🗺️ Cartes du monde
+# 🗺️ Cartes du monde ❌
 

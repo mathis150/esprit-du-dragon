@@ -1,2 +1,2 @@
-# Système d'apprentissage
+# Système d'apprentissage ❌
 

@@ -1,2 +1,2 @@
-# 📈 Groupes/Entreprises influentes
+# 📈 Groupes/Entreprises influentes ❌
 

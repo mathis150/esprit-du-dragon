@@ -1,3 +1,3 @@
-# Aile d'hippogriffe
+# ⌛ Aile d'hippogriffe
 
 Unique à la race des "Hybrides hippogriffe"

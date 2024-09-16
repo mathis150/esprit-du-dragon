@@ -2,7 +2,7 @@
 description: Créé le 12/03/2024, par Mathis.
 ---
 
-# Les races
+# 🐉 Les races
 
 La race d'un personnage est la fondation la plus importante, elle définit la vie du personnage, mais plus important, ses statistiques et son don racial.
 

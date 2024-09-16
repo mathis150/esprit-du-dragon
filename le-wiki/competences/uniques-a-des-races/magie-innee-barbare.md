@@ -1,3 +1,3 @@
-# Magie innée barbare
+# ⌛ Magie innée barbare
 
 Unique à la race des "Barbare"
