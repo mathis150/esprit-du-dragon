@@ -1,6 +1,6 @@
 ---
-description: Créé le 11/03/2024, par Mathis.
 icon: ballot-check
+description: Créé le 11/03/2024, par Mathis.
 ---
 
 # Les bases
@@ -131,8 +131,8 @@ Pour ça, faite {1d6} :
 * 1 = Feu
 * 2 = Eau
 * 3 = Terre
-* 4 = Électricité
-* 5 = Vent
+* 4 = Vent
+* 5 = Électricité
 * 6 = Vitalité
 {% endhint %}
 
