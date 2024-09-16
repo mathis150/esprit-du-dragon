@@ -19,9 +19,9 @@ description: Créé le 08/06/2024, par Mathis. Mise à jour fait le 28/08/2024
 * Publication des X premières créature du bestiaire
 * Publication de X compagnons
 * Publication de la première version du système de compagnon
-* Publication des règles du JDR
-* Publication du système de jeu
-* Publication du fonctionnement du jet de dés
+* Publication des règles du JDR ✅
+* Publication du système de jeu ✅
+* Publication du fonctionnement du jet de dés ✅
 * Publication des 6 Dieux
 * Publication de 9 Demi-Dieux
 * Publication de l'anatomie dans "Fonctionnement du monde"
