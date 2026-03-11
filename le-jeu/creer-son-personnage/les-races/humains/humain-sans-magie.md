@@ -4,7 +4,7 @@ description: Créé le 07/03/2024, par Mathis.
 
 # Humain sans magie
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="240"><figcaption><p>Exemple d'humain sans magie</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="240"><figcaption><p>Exemple d'humain sans magie</p></figcaption></figure>
 
 Ce type d'humain a pour particularité de ne jamais avoir appris à utiliser la magie, ses canaux sont alors entièrement bloqués.
 

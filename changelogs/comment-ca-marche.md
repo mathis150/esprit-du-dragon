@@ -2,7 +2,7 @@
 description: Créé le 06/03/2024 par Mathis.
 ---
 
-# Comment ça marche ?
+# ❓ Comment ça marche ?
 
 Le système de version a pour objectif de définir les différentes évolutions du système de jeu, dans le but de permettre à chaque joueur de se sentir le mieux pendant le JDR.
 

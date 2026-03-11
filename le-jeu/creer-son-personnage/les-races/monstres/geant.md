@@ -4,7 +4,7 @@ description: Créé le 10/03/2024, par Mathis.
 
 # Géant
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt="" width="282"><figcaption><p>Exemple de géant. (Les géants, à l'âge adulte, font entre 4 mètres et 5 mètres)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt="" width="282"><figcaption><p>Exemple de géant. (Les géants, à l'âge adulte, font entre 4 mètres et 5 mètres)</p></figcaption></figure>
 
 Le Géant est un humain de grande taille et dont la force est bien plus élevé.
 

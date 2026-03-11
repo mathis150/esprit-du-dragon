@@ -4,7 +4,7 @@ description: Créé le 07/03/2024, par Mathis. Modifié le 11/03/2024.
 
 # Humain à trois êtres
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt="" width="282"><figcaption><p>Exemple d'humain à trois êtres (Reconnue par leur taille et peau malgré leur grand âge.)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt="" width="282"><figcaption><p>Exemple d'humain à trois êtres (Reconnue par leur taille et peau malgré leur grand âge.)</p></figcaption></figure>
 
 L'humain à trois êtres et un type d'humain extrêmement rare. Cela touche un humain sur 200 000.
 

@@ -45,15 +45,16 @@ Le rang est calculé de la manière suivante :&#x20;
 > {Endurance} \* 150 +\
 > \
 > (Répété pour chaque différenciation de niveau)\
-> {Nb. de Compétence d'un telle niveau} \* {Niveau en question} \* 15 \* 30 +\
->
+> {Nb. de Compétence d'un telle niveau} \* {Niveau en question} \* 15 \* 30 +<br>
 >
 > (Répété pour chaque différenciation de rang, la réserve compte, car concidéré comme "appris")\
-> {Nb. de Sorts d'un telle rang} \* {"Niveau" du rang, rang E = 1, rang S = 6} \* 15 \* 25 +
+> {Nb. de Sorts d'un telle rang} \* {"Niveau" du rang, rang E = 1, rang S = 6} \* 15 \* 25 +\
+> \
+> &#x20;{Niveau} \* 750 \* 5.5
 >
 > )\
 > \
-> &#x20;\* 1.05 \* {Niveau}
+> &#x20;\* 1.05
 
 Pour savoir à quoi correspond le résultat, allez voir dans "Le Lore général" -> "Rang et puissance".
 

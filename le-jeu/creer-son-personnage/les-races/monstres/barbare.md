@@ -4,7 +4,7 @@ description: Créé le 08/03/2024, par Mathis.
 
 # Barbare
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt="" width="282"><figcaption><p>Exemple de barbare.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt="" width="282"><figcaption><p>Exemple de barbare.</p></figcaption></figure>
 
 Les Barbares sont des êtres qui ont supporté la corruption qui a touché leurs corps, on parle d'eux comme des démons.
 

@@ -4,7 +4,7 @@ description: Créé le 16/05/2024 par Mathis.
 
 # Type Minotaure
 
-<figure><img src="../../../../../.gitbook/assets/image (9).png" alt="" width="282"><figcaption><p>Exemple d'hybride Minotaure. (De niveau avancé)</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (9) (1).png" alt="" width="282"><figcaption><p>Exemple d'hybride Minotaure. (De niveau avancé)</p></figcaption></figure>
 
 Le Minotaure est une créature LÉGENDAIRE du bestiaire "d'Esprit du Dragon".
 

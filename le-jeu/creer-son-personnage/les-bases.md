@@ -1,6 +1,6 @@
 ---
-icon: ballot-check
 description: Créé le 11/03/2024, par Mathis.
+icon: ballot-check
 ---
 
 # Les bases
@@ -11,7 +11,7 @@ Tous personnages se sont inscrit à "La compagnie d'aventure", celle-ci est une 
 
 ### Lors de la création de votre personnage,
 
-vous devrez utiliser le document suivant : [CLIQUEZ-ICI](https://docs.google.com/document/d/1aFlMIZ\_FLbbyWOdB6MKF6K\_H0jE\_PzwNevhnRF-K504/edit?usp=sharing)
+vous devrez utiliser le document suivant : [CLIQUEZ-ICI](https://docs.google.com/document/d/1aFlMIZ_FLbbyWOdB6MKF6K_H0jE_PzwNevhnRF-K504/edit?usp=sharing)
 
 
 
@@ -51,7 +51,7 @@ Bravo ! Vous avez construit les bases de votre personnage, maintenant, voyons co
 
 Pour cela, je vais prendre un exemple de personnage fictif que l'on pourrait créer :&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="184"><figcaption><p>Je vous présente Bernard, un humain avec magie de classe Mage.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="184"><figcaption><p>Je vous présente Bernard, un humain avec magie de classe Mage.</p></figcaption></figure>
 
 Comme vous le voyez, j'ai "créé" un personnage qui se nomme Bernard, un humain avec magie.
 

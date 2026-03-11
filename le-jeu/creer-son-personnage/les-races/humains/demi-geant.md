@@ -4,7 +4,7 @@ description: Créé le 07/03/2024, par Mathis.
 
 # Demi-Géant
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="282"><figcaption><p>Exemple d'Humain demi-géant. (Droite)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="282"><figcaption><p>Exemple d'Humain demi-géant. (Droite)</p></figcaption></figure>
 
 L'humain demi-géant est née d'un accouplement entre un géant et un humain. Leurs tailles sont légèrement au-dessus des humains normaux et leur taille et force est bien plus élevé.
 

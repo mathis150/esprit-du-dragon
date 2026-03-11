@@ -25,6 +25,8 @@ description: Créé le 08/06/2024, par Mathis. Mise à jour fait le 28/08/2024
 * Publication des 6 Dieux
 * Publication de 9 Demi-Dieux
 * Publication de l'anatomie dans "Fonctionnement du monde"
+* Publication de la liste des "Dieux" et "Démons", personnalités humaines qui par leurs puissance, on reçu ce titre prestigieux ou bien, demandant à les traquer ✅
+* Publication des "Administrateurs" ✅
 {% endhint %}
 
 {% hint style="info" %}

@@ -4,7 +4,7 @@ description: Créé le 11/03/2024, par Mathis.
 
 # Gobelin
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt="" width="256"><figcaption><p>Exemple de gobelin.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt="" width="256"><figcaption><p>Exemple de gobelin.</p></figcaption></figure>
 
 Les Gobelins sont des êtres fragiles spécialisés en combat avec arme légère, c'est des êtres décrit comme jugé malicieux et représentant les ténèbres bien qu’il reste une race extrêmement civilisée et en bons termes avec l'ensemble des royaumes.
 

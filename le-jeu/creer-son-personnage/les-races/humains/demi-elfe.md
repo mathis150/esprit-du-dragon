@@ -4,7 +4,7 @@ description: Créé le 07/03/2024, par Mathis.
 
 # Demi-Elfe
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="282"><figcaption><p>Exemple d'humain elfique. (Reconnue par leurs petites oreilles et<br>leur visage plus normalisé chez les humains)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt="" width="282"><figcaption><p>Exemple d'humain elfique. (Reconnue par leurs petites oreilles et<br>leur visage plus normalisé chez les humains)</p></figcaption></figure>
 
 L'humain elfique est né d'un accouplement entre un elfe et un humain. Leur visage rappel celui d'un elfe, mais leurs oreilles sont une fusion entre ceux humains et ceux des elfes.
 
