@@ -251,3 +251,4 @@
   * [V1.0](changelogs/version-1.x/v1.0.md)
   * [V1.0.1](changelogs/version-1.x/v1.0.1.md)
   * [V1.0.2](changelogs/version-1.x/v1.0.2.md)
+  * [V1.1.0](changelogs/version-1.x/v1.1.0.md)
